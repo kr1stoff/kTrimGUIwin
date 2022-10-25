@@ -1,0 +1,6 @@
+test.*
+temp/
+*.zip
+build
+dist
+*.spec
